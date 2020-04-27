@@ -9,7 +9,7 @@ export const AppContext = createContext(null);
 
 
 var firebaseConfig = {
-  apiKey: "AIzaSyATQbZFuSfA5390WOGhPkZb-Y-1DcGaREs",
+  apiKey: "",
   authDomain: "user-app-91910.firebaseapp.com",
   databaseURL: "https://user-app-91910.firebaseio.com",
   projectId: "user-app-91910",
